@@ -1,0 +1,11 @@
+.info{
+	width:500px;
+	height:100px;
+	border:4px double blue;
+	font-size:18px;
+}
+.go{
+	width:80px;
+	height:30px;
+	font-size:18px;
+}
